@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Nathaly Silva</h1>
+<h1 align="center">👩‍💻 Náthaly Isabely</h1>
 
 <p align="center">
   Estudante de Engenharia de Software | Apaixonada por tecnologia, games, leitura, design e soluções criativas;
