@@ -42,8 +42,8 @@ Cursando o 3º semestre de Engenharia de Software. Estou trilhando meu caminho n
 
 ## 💬 Vamos conversar?
 
-- ✉️ Me chama no [[LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/n%C3%A1thaly-isabely-570779111/))  
-- 💡 Sempre aberta para trocar ideias sobre design, desenvolvimento e inovação!
+- ✉️ Me chama no [[LinkedIn](https://www.linkedin.com/in/náthaly-isabely-570779111/)
+- 💡 Sempre aberta para trocar ideias sobre desenvolvimento!
 
 ---
 
