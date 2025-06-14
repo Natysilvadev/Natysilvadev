@@ -16,18 +16,18 @@ Cursando o 3º semestre de Engenharia de Software. Estou trilhando meu caminho n
 
 ### 💻 Frontend
 
-<p align="center">
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) (avançado)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) (avançado)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) (avançado)
-- ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-purple?logo=figma&logoColor=white) (avançado)
-</p>
-
+| Tecnologia | Nível |
+|------------|:-----:|
+| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Avançado |
+| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Avançado |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Avançado |
+| ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-purple?logo=figma&logoColor=white) | Avançado |
 
 ### 🐍 Backend & Lógica
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) (intermediário)
----
 
+| Tecnologia | Nível |
+|------------|:-----:|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Intermediário |
 ## 🌱 Em constante evolução
 
 - Aprofundando em **TypeScript**
