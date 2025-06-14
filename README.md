@@ -4,11 +4,6 @@
   Estudante de Engenharia de Software | Apaixonada por tecnologia, games, leitura, design e soluções criativas;
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/semestre-3º--Engenharia%20de%20Software-blue" />
-  <img src="https://img.shields.io/badge/status-Aprendendo%20Sempre-green" />
-</p>
-
 ---
 
 ## 🚀 Sobre mim
