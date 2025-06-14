@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Cursando o 3º semestre de Engenharia de Software. Estou trilhando meu caminho no mundo da tecnologia como foco em desenvolvimento FullStack.
+Cursando o 3º semestre de Engenharia de Software. Estou trilhando meu caminho no mundo da tecnologia com foco em desenvolvimento FullStack.
 
 ---
 
